@@ -1,19 +1,19 @@
 {
-  "name": "reddcore",
+  "name": "opalcore",
   "description": "Reddcoin Core Library in Javascript",
   "version": "0.1.40",
   "author": {
     "name": "Larry Ren",
-    "email": "ren@reddcoin.com"
+    "email": "ren@opalcoin.com"
   },
   "contributors": [
     {
       "name": "Andrew Groff",
-      "email": "andrew@reddcoin.com"
+      "email": "andrew@opalcoin.com"
     },
     {
       "name": "Mike Croteau",
-      "email": "mike@reddcoin.com"
+      "email": "mike@opalcoin.com"
     },
     {
       "name": "Stephen Pair",
@@ -49,9 +49,9 @@
     }
   ],
   "keywords": [
-    "reddcoin",
-    "reddcore",
-    "rdd",
+    "opalcoin",
+    "opalcore",
+    "opal",
     "bitcoin",
     "btc",
     "satoshi",
@@ -62,7 +62,7 @@
   "main": "bitcore.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/reddcoin-project/reddcore.git"
+    "url": "https://github.com/opalcoin/opalcore.git"
   },
   "scripts": {
     "install": "node-gyp rebuild",
@@ -121,10 +121,10 @@
   "readmeFilename": "README.md",
   "gypfile": true,
   "bugs": {
-    "url": "https://github.com/reddcoin-project/reddcore/issues"
+    "url": "https://github.com/opalcoin/opalcore/issues"
   },
-  "homepage": "https://github.com/reddcoin-project/reddcore",
-  "_id": "reddcore@0.1.39",
+  "homepage": "https://github.com/opalcoin/opalcore",
+  "_id": "opalcore@0.1.39",
   "devDependencies": {
     "browserify": "=3.40.0",
     "chai": "=1.9.1",

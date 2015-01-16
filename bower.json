@@ -1,19 +1,19 @@
 {
-  "name": "reddcore",
+  "name": "opalcore",
   "main": "browser/bundle.js",
   "version": "0.1.36",
-  "homepage": "https://github.com/reddcoin-project/reddcore",
+  "homepage": "https://github.com/opalcoin/opalcore",
   "authors": [
-    "Larry Ren (<ren@reddcoin.com>)"
+    "Larry Ren (<ren@opalcoin.com>)"
   ],
   "description": "Reddcoin Core Library in Javascript",
   "moduleType": [
     "globals"
   ],
   "keywords": [
-    "reddcoin",
-    "reddcore",
-    "rdd",
+    "opalcoin",
+    "opalcore",
+    "opal",
     "bitcoin",
     "bitcore",
     "btc",
