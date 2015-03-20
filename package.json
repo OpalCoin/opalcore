@@ -1,53 +1,11 @@
 {
   "name": "opalcore",
-  "description": "Reddcoin Core Library in Javascript",
+  "description": "Opalcoin Core Library in Javascript",
   "version": "0.1.40",
   "author": {
-    "name": "Larry Ren",
-    "email": "ren@opalcoin.com"
+    "name": "Whit Jack",
+    "email": "whit@whitjack.me"
   },
-  "contributors": [
-    {
-      "name": "Andrew Groff",
-      "email": "andrew@opalcoin.com"
-    },
-    {
-      "name": "Mike Croteau",
-      "email": "mike@opalcoin.com"
-    },
-    {
-      "name": "Stephen Pair",
-      "email": "stephen@bitpay.com"
-    },
-    {
-      "name": "Stefan Thomas",
-      "email": "moon@justmoon.net"
-    },
-    {
-      "name": "Jeff Garzik",
-      "email": "jgarzik@bitpay.com"
-    },
-    {
-      "name": "Manuel Araoz",
-      "email": "manuelaraoz@gmail.com"
-    },
-    {
-      "name": "Matias Alejo Garcia",
-      "email": "ematiu@gmail.com"
-    },
-    {
-      "name": "Ryan X. Charles",
-      "email": "ryan@bitpay.com"
-    },
-    {
-      "name": "Gordon Hall",
-      "email": "gordon@bitpay.com"
-    },
-    {
-      "name": "Esteban Ordano",
-      "email": "eordano@gmail.com"
-    }
-  ],
   "keywords": [
     "opalcoin",
     "opalcore",
